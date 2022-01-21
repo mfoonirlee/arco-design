@@ -89,9 +89,9 @@ export default function App() {
       />
       <Navbar.GlobalNotice
         onHeightChange={setNoticeHeight}
-        title="Arco Design Pro"
-        desc="Arco Pro v2.0 全新上线 🎉"
-        link="https://bytedance.feishu.cn/docx/doxcneH4MAnUxcBvnLMuoywOp2f#doxcnaE2iEwuGmKcYVTvugYHveS"
+        title=" "
+        desc="Vue3 将成为默认版本，Arco 助力开发者轻装启航"
+        link="https://mp.weixin.qq.com/s/06ALEmhxJcUqBGIVL4IQvA"
       />
       <Switch>
         <Route path="/" exact component={Home} />
